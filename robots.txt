@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laxuvi.github.io/ECC/sitemap.ECC.gz
